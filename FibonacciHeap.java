@@ -11,7 +11,7 @@ public class FibonacciHeap {
     private static int Links;
     private static int Cuts;
 
-
+// סתם לבדיקה
 
     /**
      * public boolean isEmpty()
