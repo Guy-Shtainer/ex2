@@ -4,7 +4,6 @@
  * An implementation of a Fibonacci Heap over integers.
  */
 
-check
 public class FibonacciHeap
 {
 
