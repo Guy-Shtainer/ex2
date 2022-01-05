@@ -3,7 +3,7 @@
  *
  * An implementation of a Fibonacci Heap over integers.
  */
-tet
+
 public class FibonacciHeap
 {
 
